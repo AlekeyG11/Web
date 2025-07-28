@@ -1,0 +1,23 @@
+
+/* Color Theme Swatches in Hex */
+.Seidr-Y-Mynydd-1-hex { color: #BFBFBF; }
+.Seidr-Y-Mynydd-2-hex { color: #73675A; }
+.Seidr-Y-Mynydd-3-hex { color: #402414; }
+.Seidr-Y-Mynydd-4-hex { color: #F2F2F2; }
+.Seidr-Y-Mynydd-5-hex { color: #0D0D0D; }
+
+
+/* Color Theme Swatches in RGBA */
+.Seidr-Y-Mynydd-1-rgba { color: rgba(191, 191, 191, 1); }
+.Seidr-Y-Mynydd-2-rgba { color: rgba(114, 103, 89, 1); }
+.Seidr-Y-Mynydd-3-rgba { color: rgba(63, 35, 19, 1); }
+.Seidr-Y-Mynydd-4-rgba { color: rgba(242, 242, 242, 1); }
+.Seidr-Y-Mynydd-5-rgba { color: rgba(12, 12, 12, 1); }
+
+
+/* Color Theme Swatches in HSLA */
+.Seidr-Y-Mynydd-1-hsla { color: hsla(0, 0, 75, 1); }
+.Seidr-Y-Mynydd-2-hsla { color: hsla(33, 12, 40, 1); }
+.Seidr-Y-Mynydd-3-hsla { color: hsla(22, 52, 16, 1); }
+.Seidr-Y-Mynydd-4-hsla { color: hsla(0, 0, 95, 1); }
+.Seidr-Y-Mynydd-5-hsla { color: hsla(0, 0, 5, 1); }
